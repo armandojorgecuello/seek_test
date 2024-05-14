@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">754776344554-039mnhe3fo27aod6a87cr7a9clmi2l1p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">754776344554</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjKVjSTKhNHynWNHsqKB9LYmZNv1sLFN4</string>
+    <string name="google_app_id" translatable="false">1:754776344554:android:aef90bfdb4ababb5a4d493</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjKVjSTKhNHynWNHsqKB9LYmZNv1sLFN4</string>
+    <string name="google_storage_bucket" translatable="false">jorge-project-66222.appspot.com</string>
+    <string name="project_id" translatable="false">jorge-project-66222</string>
+</resources>
