@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "754776344554",
+    "project_id": "jorge-project-66222",
+    "storage_bucket": "jorge-project-66222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754776344554:android:5ebb4baf2f020f8aa4d493",
+        "android_client_info": {
+          "package_name": "com.exaple.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754776344554-039mnhe3fo27aod6a87cr7a9clmi2l1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKVjSTKhNHynWNHsqKB9LYmZNv1sLFN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754776344554-039mnhe3fo27aod6a87cr7a9clmi2l1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754776344554:android:aef90bfdb4ababb5a4d493",
+        "android_client_info": {
+          "package_name": "com.pruebaapp.jorge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754776344554-039mnhe3fo27aod6a87cr7a9clmi2l1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKVjSTKhNHynWNHsqKB9LYmZNv1sLFN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754776344554-039mnhe3fo27aod6a87cr7a9clmi2l1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
